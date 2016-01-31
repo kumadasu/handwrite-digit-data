@@ -1,0 +1,11 @@
+/home/kumadasu/dl/digits/kumadasu-handwrite/png/0.png
+/home/kumadasu/dl/digits/kumadasu-handwrite/png/1.png
+/home/kumadasu/dl/digits/kumadasu-handwrite/png/2.png
+/home/kumadasu/dl/digits/kumadasu-handwrite/png/3.png
+/home/kumadasu/dl/digits/kumadasu-handwrite/png/4.png
+/home/kumadasu/dl/digits/kumadasu-handwrite/png/5.png
+/home/kumadasu/dl/digits/kumadasu-handwrite/png/6.png
+/home/kumadasu/dl/digits/kumadasu-handwrite/png/7.png
+/home/kumadasu/dl/digits/kumadasu-handwrite/png/8.png
+/home/kumadasu/dl/digits/kumadasu-handwrite/png/9.png
+
